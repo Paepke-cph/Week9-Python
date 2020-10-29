@@ -1,6 +1,6 @@
 # Week9-Python
 ### Group: Omelette du Fromage
-Using the file [country_wise_latest.csv]("https://github.com/Paepke-cph/Week9-Python/blob/main/country_wise_latest.csv") file complete the following exercises
+Using the file ![country_wise_latest.csv]("https://github.com/Paepke-cph/Week9-Python/blob/main/country_wise_latest.csv") file complete the following exercises
 
 # Exercise 1
 Using the csv-file create a SQL database with a table Country, and the different data available for each country.
